@@ -1,0 +1,24 @@
+.container{
+    background-color: rgb(193, 255, 255);
+    height: 200px;
+    width: 400px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 150px;
+    border: 2px solid black;
+}
+#temp{
+    width: 65%;
+}
+#b1{
+    width: 100%;
+    padding: 5px;
+}
+#s1
+{
+    width: 216px;
+}
+#s2{
+    width: 244px;
+}
